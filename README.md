@@ -28,3 +28,5 @@ La versión de Unity del proyecto es 2020.3.11f1
 **Guardar Pieza**: Para guardar una pieza en el banco de piezas, se usa la "Barra Espaciadora". Solo puede haber una pieza a la vez, por lo que si ya hay una pieza guardada, se sustituye con la que se este jugando en ese instante.
 
 ![Gif de ejemplo de como guarda/intercambia una pieza](Documentacion/Controles/savetetris.gif)
+
+**Salir del Juego**: Para salir del juego simplemente pulsa "ESC".
