@@ -1,11 +1,16 @@
-
 # Unity_Tetris
 
-Este repositorio contiene todos los archivos de un clon del Tetris hecho en Unity.
+## Resumen
+Como trabajo de grado de Desarrollo de Apliaciones Multiplatafora (DAM) decidi realizar un clon del Tetris en el motor de videojuegos Unity
 
-Este proyecto muestra una versión simple del juego Tetris.
+## Herramientas
+Este trabajo se ha hecho con Unity, versión 2020.3.11f1
 
-La versión de Unity del proyecto es 2020.3.11f1
+## Descargar
+> [!IMPORTANT]
+> Mas adelante tiene la sección de controles, asegurese de mirarla antes de iniciar el juego
+
+En la seccion de [Releases](../../releases) puedes encontrar el ejecutable del juego para la plataforma WINDOWS.
 
 ## Controles
 
